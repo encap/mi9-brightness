@@ -123,10 +123,10 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "       OP7T BrightHack         "
+  ui_print "       Mi9 BrightHack         "
   ui_print "                               "
-  ui_print "        by @geofferey          "
-  ui_print "                               "
+  ui_print "        by @geofferey,         "
+  ui_print "       forked by enc4p         "
   ui_print " https://github.com/geofferey  "
   ui_print "*******************************"
 }
